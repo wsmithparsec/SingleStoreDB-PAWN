@@ -1,4 +1,4 @@
-# SingleStoreDB-PAWN
+# SingleStoreDB PAWN
 
 ### What is SingleStoreDB PAWN? ###
 
